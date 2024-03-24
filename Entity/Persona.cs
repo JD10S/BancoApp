@@ -1,5 +1,5 @@
 ﻿using System;
-using Datos1;
+using Datos;
 
 
 namespace Entity
